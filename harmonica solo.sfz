@@ -11,13 +11,13 @@ ampeg_decay=1
 ampeg_sustain=85
 ampeg_release=0.07
 
-<region> sample=harmonica_1.wav key=64 hikey=65 lokey=0
-<region> sample=harmonica_2.wav key=67 hikey=69 lokey=66 tune=-16
-<region> sample=harmonica_3.wav key=72 hikey=74 lokey=70 tune=-19
-<region> sample=harmonica_4.wav key=76 hikey=77 lokey=75 tune=-5
-<region> sample=harmonica_5.wav key=79 hikey=83 lokey=78 tune=-14
-<region> sample=harmonica_6.wav key=84 hikey=86 lokey=84 tune=-18
-<region> sample=harmonica_7.wav key=88 hikey=127 lokey=87 tune=-26
+<region> sample=harmonica_1.flac key=64 hikey=65 lokey=0
+<region> sample=harmonica_2.flac key=67 hikey=69 lokey=66 tune=-16
+<region> sample=harmonica_3.flac key=72 hikey=74 lokey=70 tune=-19
+<region> sample=harmonica_4.flac key=76 hikey=77 lokey=75 tune=-5
+<region> sample=harmonica_5.flac key=79 hikey=83 lokey=78 tune=-14
+<region> sample=harmonica_6.flac key=84 hikey=86 lokey=84 tune=-18
+<region> sample=harmonica_7.flac key=88 hikey=127 lokey=87 tune=-26
 
 <group> //release
 volume=-7
@@ -26,11 +26,11 @@ ampeg_attack=0.04
 ampeg_decay=0.006
 ampeg_sustain=0
 
-<region> sample=harmonica_1_rel.wav key=64 hikey=65 lokey=0
-<region> sample=harmonica_2_rel.wav key=67 hikey=69 lokey=66 tune=-22
-<region> sample=harmonica_3_rel.wav key=72 hikey=74 lokey=70 tune=-16
-<region> sample=harmonica_4_rel.wav key=76 hikey=77 lokey=75 tune=-13
-<region> sample=harmonica_5_rel.wav key=79 hikey=83 lokey=78 tune=-30
-<region> sample=harmonica_6_rel.wav key=84 hikey=86 lokey=84 tune=-16
-<region> sample=harmonica_7_rel.wav key=88 hikey=127 lokey=87 tune=-27
+<region> sample=harmonica_1_rel.flac key=64 hikey=65 lokey=0
+<region> sample=harmonica_2_rel.flac key=67 hikey=69 lokey=66 tune=-22
+<region> sample=harmonica_3_rel.flac key=72 hikey=74 lokey=70 tune=-16
+<region> sample=harmonica_4_rel.flac key=76 hikey=77 lokey=75 tune=-13
+<region> sample=harmonica_5_rel.flac key=79 hikey=83 lokey=78 tune=-30
+<region> sample=harmonica_6_rel.flac key=84 hikey=86 lokey=84 tune=-16
+<region> sample=harmonica_7_rel.flac key=88 hikey=127 lokey=87 tune=-27
 
