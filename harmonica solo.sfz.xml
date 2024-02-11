@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<control>
+	<opcode name="default_path" value="samples/" />
+</control>
+<global>
+	<opcode name="cutoff" value="11500" />
+</global>
+<group>
+	<opcode name="loop_mode" value="loop_continuous" />
+	<opcode name="ampeg_attack" value="0.02" />
+	<opcode name="ampeg_decay" value="1" />
+	<opcode name="ampeg_sustain" value="85" />
+	<opcode name="ampeg_release" value="0.07" />
+</group>
+<region>
+	<opcode name="sample" value="harmonica_1.ogg" />
+	<opcode name="key" value="64" />
+	<opcode name="hikey" value="65" />
+	<opcode name="lokey" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_2.ogg" />
+	<opcode name="key" value="67" />
+	<opcode name="hikey" value="69" />
+	<opcode name="lokey" value="66" />
+	<opcode name="tune" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_3.ogg" />
+	<opcode name="key" value="72" />
+	<opcode name="hikey" value="74" />
+	<opcode name="lokey" value="70" />
+	<opcode name="tune" value="-19" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_4.ogg" />
+	<opcode name="key" value="76" />
+	<opcode name="hikey" value="77" />
+	<opcode name="lokey" value="75" />
+	<opcode name="tune" value="-5" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_5.ogg" />
+	<opcode name="key" value="79" />
+	<opcode name="hikey" value="83" />
+	<opcode name="lokey" value="78" />
+	<opcode name="tune" value="-14" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_6.ogg" />
+	<opcode name="key" value="84" />
+	<opcode name="hikey" value="86" />
+	<opcode name="lokey" value="84" />
+	<opcode name="tune" value="-18" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_7.ogg" />
+	<opcode name="key" value="88" />
+	<opcode name="hikey" value="127" />
+	<opcode name="lokey" value="87" />
+	<opcode name="tune" value="-26" />
+</region>
+<group>
+	<opcode name="volume" value="-7" />
+	<opcode name="trigger" value="release" />
+	<opcode name="ampeg_attack" value="0.04" />
+	<opcode name="ampeg_decay" value="0.006" />
+	<opcode name="ampeg_sustain" value="0" />
+</group>
+<region>
+	<opcode name="sample" value="harmonica_1_rel.ogg" />
+	<opcode name="key" value="64" />
+	<opcode name="hikey" value="65" />
+	<opcode name="lokey" value="0" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_2_rel.ogg" />
+	<opcode name="key" value="67" />
+	<opcode name="hikey" value="69" />
+	<opcode name="lokey" value="66" />
+	<opcode name="tune" value="-22" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_3_rel.ogg" />
+	<opcode name="key" value="72" />
+	<opcode name="hikey" value="74" />
+	<opcode name="lokey" value="70" />
+	<opcode name="tune" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_4_rel.ogg" />
+	<opcode name="key" value="76" />
+	<opcode name="hikey" value="77" />
+	<opcode name="lokey" value="75" />
+	<opcode name="tune" value="-13" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_5_rel.ogg" />
+	<opcode name="key" value="79" />
+	<opcode name="hikey" value="83" />
+	<opcode name="lokey" value="78" />
+	<opcode name="tune" value="-30" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_6_rel.ogg" />
+	<opcode name="key" value="84" />
+	<opcode name="hikey" value="86" />
+	<opcode name="lokey" value="84" />
+	<opcode name="tune" value="-16" />
+</region>
+<region>
+	<opcode name="sample" value="harmonica_7_rel.ogg" />
+	<opcode name="key" value="88" />
+	<opcode name="hikey" value="127" />
+	<opcode name="lokey" value="87" />
+	<opcode name="tune" value="-27" />
+</region>

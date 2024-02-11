@@ -1,0 +1,456 @@
+elements:
+  - type: element
+    name: control
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: default_path
+          value: samples/
+  - type: element
+    name: global
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '11500'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.02'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.07'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_1.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_2.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_3.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-19'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_4.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-5'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_5.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-14'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_6.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-18'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_7.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-26'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-7'
+      - type: element
+        name: opcode
+        attributes:
+          name: trigger
+          value: release
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_attack
+          value: '0.04'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '0.006'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_1_rel.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '0'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_2_rel.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-22'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_3_rel.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_4_rel.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-13'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_5_rel.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-30'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_6_rel.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-16'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: harmonica_7_rel.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '127'
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: tune
+          value: '-27'
+
